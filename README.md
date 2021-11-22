@@ -10,3 +10,14 @@ https://github.com/nicothin/idiomatic-pre-CSS/blob/gh-pages/words_and_abbreviati
 
 visually-hidden
 https://gist.github.com/KazakovAS/e64828747a1f84f67a6ee778e1f68b9c
+
+
+Горячие клавиши Visual Studio Code
+https://nikomedvedev.ru/other/vscodeshortcuts/hotkeys.html
+
+Сервис для проверки возможност вкладывать теги
+https://caninclude.glitch.me
+
+
+Таблица символов Юникода
+https://unicode-table.com/ru/
