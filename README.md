@@ -1,1 +1,12 @@
 # Useful-links
+Словарь терминов по фронтенду
+https://github.com/web-standards-ru/dictionary/blob/main/dictionary.md
+
+Слова, часто используемые в CSS-классах
+https://github.com/yoksel/common-words
+
+Слова и сокращения в CSS-классах
+https://github.com/nicothin/idiomatic-pre-CSS/blob/gh-pages/words_and_abbreviations.md#слова-и-сокращения-в-css-классах
+
+visually-hidden
+https://gist.github.com/KazakovAS/e64828747a1f84f67a6ee778e1f68b9c
