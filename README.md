@@ -21,3 +21,9 @@ https://caninclude.glitch.me
 
 Таблица символов Юникода  
 https://unicode-table.com/ru/
+
+Использование CSS-анимации
+https://developer.mozilla.org/ru/docs/Web/CSS/CSS_Animations/Using_CSS_animations
+
+Веб-консоль
+https://developer.mozilla.org/ru/docs/Tools/Web_Console
