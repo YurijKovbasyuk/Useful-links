@@ -27,3 +27,6 @@ https://developer.mozilla.org/ru/docs/Web/CSS/CSS_Animations/Using_CSS_animation
 
 Веб-консоль
 https://developer.mozilla.org/ru/docs/Tools/Web_Console
+
+Сборщик Парсел
+https://github.com/goitacademy/parcel-project-template
