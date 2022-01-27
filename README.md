@@ -1,4 +1,7 @@
-# Useful-links
+# Useful-link
+GoIt
+https://github.com/GregorHorvatH/goit-js-45
+
 Словарь терминов по фронтенду   
 https://github.com/web-standards-ru/dictionary/blob/main/dictionary.md
 
