@@ -11,6 +11,9 @@ https://github.com/yoksel/common-words
 Слова и сокращения в CSS-классах  
 https://github.com/nicothin/idiomatic-pre-CSS/blob/gh-pages/words_and_abbreviations.md#слова-и-сокращения-в-css-классах
 
+Как работать с CSS-препроцессорами (Список рекомендаций по неусложнению жизни себе и другим участникам проекта по вёрстке.)
+https://nicothin.pro/idiomatic-pre-CSS/
+
 visually-hidden               
 https://gist.github.com/KazakovAS/e64828747a1f84f67a6ee778e1f68b9c
 
